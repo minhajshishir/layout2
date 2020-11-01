@@ -1,0 +1,71 @@
+.header{
+	min-height: 200px;
+	background-color: skyblue;
+	overflow: hidden;
+}
+.box{
+ overflow: hidden;
+ border: 5px solid white;
+}
+.midle1{
+ min-height: 500px;
+ background-color: skyblue;
+ float: left;
+ width: 53%;
+ border: 3px solid white;
+ 
+}
+.midle2{
+	min-height: 500px;
+ background-color: skyblue;
+ float: left;
+ width: 25%;
+ border: 3px solid white;
+
+
+}
+.midle3{
+	min-height: 500px;
+ background-color: skyblue;
+ float: left;
+ width: 21%;
+ border: 3px solid white;
+
+
+}
+.footer{
+
+    min-height: 200px;
+	background-color: skyblue;
+	overflow: hidden;
+}
+h1{
+text-align: center;
+margin-top: 30px;
+color: white;
+}
+h2{
+text-align: center;
+margin-top: 30px;
+color: white;
+
+}
+h3{
+
+text-align: center;
+margin-top: 30px;
+color: white;
+}
+h4{
+
+text-align: center;
+margin-top: 30px;
+color: white;
+}
+h5{
+text-align: center;
+margin-top: 30px;
+color: white;
+font-size: 3em;
+
+}
